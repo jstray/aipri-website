@@ -27,5 +27,6 @@ ol.research p{margin:0;color:var(--muted)}
 footer{background:var(--ink);color:#fff}
 footer .wrap{padding-top:36px;padding-bottom:40px;display:flex;flex-wrap:wrap;gap:12px 40px;align-items:baseline;justify-content:space-between}
 footer strong{font-weight:800}
+footer .loc{color:#b5b5b5;font-size:.95rem}
 footer a{color:#fff;font-weight:600}
 @media (max-width:600px){nav{gap:18px}main{padding:48px 0 64px}ol.research li{grid-template-columns:48px 1fr}}
