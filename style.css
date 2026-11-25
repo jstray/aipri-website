@@ -18,7 +18,7 @@ h2{font-size:1.5rem;line-height:1.2;letter-spacing:-.01em;font-weight:800;margin
 p{max-width:40em}
 .more{display:inline-block;margin-top:16px;font-weight:700;text-decoration:none;border-bottom:3px solid var(--accent);color:var(--ink);padding-bottom:2px}
 .people{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:48px;margin-top:16px}
-.person img{width:100%;max-width:320px;aspect-ratio:1;object-fit:cover;background:var(--line);display:block;margin-bottom:20px}
+.person img{width:192px;max-width:100%;aspect-ratio:1;object-fit:cover;background:var(--line);display:block;margin-bottom:20px}
 .placeholder{background:#fff3b0;padding:0 4px}
 ol.research{list-style:none;padding:0;margin:0;counter-reset:r;border-top:1px solid var(--ink)}
 ol.research li{counter-increment:r;display:grid;grid-template-columns:72px 1fr;gap:8px;padding:32px 0;border-bottom:1px solid var(--line)}
